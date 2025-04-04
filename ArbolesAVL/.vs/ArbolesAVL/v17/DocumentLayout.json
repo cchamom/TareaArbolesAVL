@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\ArbolesAVL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED2D912-86E1-4305-B771-E1DBCA0C7A20}|ArbolesAVL\\ArbolesAVL.csproj|c:\\users\\cristian chamo\\desktop\\tareaabolesavl\\arbolesavl\\arbolesavl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED2D912-86E1-4305-B771-E1DBCA0C7A20}|ArbolesAVL\\ArbolesAVL.csproj|solutionrelative:arbolesavl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED2D912-86E1-4305-B771-E1DBCA0C7A20}|ArbolesAVL\\ArbolesAVL.csproj|c:\\users\\cristian chamo\\desktop\\tareaabolesavl\\arbolesavl\\arbolesavl\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED2D912-86E1-4305-B771-E1DBCA0C7A20}|ArbolesAVL\\ArbolesAVL.csproj|solutionrelative:arbolesavl\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED2D912-86E1-4305-B771-E1DBCA0C7A20}|ArbolesAVL\\ArbolesAVL.csproj|c:\\users\\cristian chamo\\desktop\\tareaabolesavl\\arbolesavl\\arbolesavl\\arbolavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED2D912-86E1-4305-B771-E1DBCA0C7A20}|ArbolesAVL\\ArbolesAVL.csproj|solutionrelative:arbolesavl\\arbolavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArbolAVL.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\ArbolesAVL\\ArbolesAVL\\ArbolAVL.cs",
+              "RelativeDocumentMoniker": "ArbolesAVL\\ArbolAVL.cs",
+              "ToolTip": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\ArbolesAVL\\ArbolesAVL\\ArbolAVL.cs",
+              "RelativeToolTip": "ArbolesAVL\\ArbolAVL.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAqwCgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T02:30:45.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\ArbolesAVL\\ArbolesAVL\\Nodo.cs",
+              "RelativeDocumentMoniker": "ArbolesAVL\\Nodo.cs",
+              "ToolTip": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\ArbolesAVL\\ArbolesAVL\\Nodo.cs",
+              "RelativeToolTip": "ArbolesAVL\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:05:44.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\ArbolesAVL\\ArbolesAVL\\Program.cs",
+              "RelativeDocumentMoniker": "ArbolesAVL\\Program.cs",
+              "ToolTip": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\ArbolesAVL\\ArbolesAVL\\Program.cs",
+              "RelativeToolTip": "ArbolesAVL\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAswGoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:52:36.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

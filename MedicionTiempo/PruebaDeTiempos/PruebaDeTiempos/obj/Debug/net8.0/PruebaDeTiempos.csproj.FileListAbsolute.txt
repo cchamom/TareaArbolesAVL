@@ -1,0 +1,14 @@
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\bin\Debug\net8.0\PruebaDeTiempos.exe
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\bin\Debug\net8.0\PruebaDeTiempos.deps.json
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\bin\Debug\net8.0\PruebaDeTiempos.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\bin\Debug\net8.0\PruebaDeTiempos.dll
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\bin\Debug\net8.0\PruebaDeTiempos.pdb
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\obj\Debug\net8.0\PruebaDeTiempos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\obj\Debug\net8.0\PruebaDeTiempos.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\obj\Debug\net8.0\PruebaDeTiempos.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\obj\Debug\net8.0\PruebaDeTiempos.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\obj\Debug\net8.0\PruebaDeTiempos.dll
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\obj\Debug\net8.0\refint\PruebaDeTiempos.dll
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\obj\Debug\net8.0\PruebaDeTiempos.pdb
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\obj\Debug\net8.0\PruebaDeTiempos.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\MedicionTiempo\PruebaDeTiempos\PruebaDeTiempos\obj\Debug\net8.0\ref\PruebaDeTiempos.dll

@@ -1,0 +1,14 @@
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\bin\Debug\net9.0\ArbolesAVL.exe
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\bin\Debug\net9.0\ArbolesAVL.deps.json
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\bin\Debug\net9.0\ArbolesAVL.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\bin\Debug\net9.0\ArbolesAVL.dll
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\bin\Debug\net9.0\ArbolesAVL.pdb
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.dll
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\obj\Debug\net9.0\refint\ArbolesAVL.dll
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.pdb
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\obj\Debug\net9.0\ArbolesAVL.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\TareaAbolesAVL\ArbolesAVL\ArbolesAVL\obj\Debug\net9.0\ref\ArbolesAVL.dll

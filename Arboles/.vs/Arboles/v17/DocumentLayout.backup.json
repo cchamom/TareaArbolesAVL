@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\Arboles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{834F5975-6464-418F-9109-2BDA6C4DB941}|Arboles\\Arboles.csproj|c:\\users\\cristian chamo\\desktop\\tareaabolesavl\\arboles\\arboles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F5975-6464-418F-9109-2BDA6C4DB941}|Arboles\\Arboles.csproj|solutionrelative:arboles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834F5975-6464-418F-9109-2BDA6C4DB941}|Arboles\\Arboles.csproj|c:\\users\\cristian chamo\\desktop\\tareaabolesavl\\arboles\\arboles\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834F5975-6464-418F-9109-2BDA6C4DB941}|Arboles\\Arboles.csproj|solutionrelative:arboles\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\Arboles\\Arboles\\Nodo.cs",
+              "RelativeDocumentMoniker": "Arboles\\Nodo.cs",
+              "ToolTip": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\Arboles\\Arboles\\Nodo.cs",
+              "RelativeToolTip": "Arboles\\Nodo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:47:08.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\Arboles\\Arboles\\Program.cs",
+              "RelativeDocumentMoniker": "Arboles\\Program.cs",
+              "ToolTip": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\Arboles\\Arboles\\Program.cs",
+              "RelativeToolTip": "Arboles\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:47:09.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

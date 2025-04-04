@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\MedicionTiempo\\PruebaDeTiempos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B79E24BA-818E-45C2-83D8-09E02CE722A9}|PruebaDeTiempos\\PruebaDeTiempos.csproj|c:\\users\\cristian chamo\\desktop\\tareaabolesavl\\mediciontiempo\\pruebadetiempos\\pruebadetiempos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79E24BA-818E-45C2-83D8-09E02CE722A9}|PruebaDeTiempos\\PruebaDeTiempos.csproj|solutionrelative:pruebadetiempos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79E24BA-818E-45C2-83D8-09E02CE722A9}|PruebaDeTiempos\\PruebaDeTiempos.csproj|c:\\users\\cristian chamo\\desktop\\tareaabolesavl\\mediciontiempo\\pruebadetiempos\\pruebadetiempos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79E24BA-818E-45C2-83D8-09E02CE722A9}|PruebaDeTiempos\\PruebaDeTiempos.csproj|solutionrelative:pruebadetiempos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79E24BA-818E-45C2-83D8-09E02CE722A9}|PruebaDeTiempos\\PruebaDeTiempos.csproj|c:\\users\\cristian chamo\\desktop\\tareaabolesavl\\mediciontiempo\\pruebadetiempos\\pruebadetiempos\\arbolbst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79E24BA-818E-45C2-83D8-09E02CE722A9}|PruebaDeTiempos\\PruebaDeTiempos.csproj|solutionrelative:pruebadetiempos\\arbolbst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79E24BA-818E-45C2-83D8-09E02CE722A9}|PruebaDeTiempos\\PruebaDeTiempos.csproj|c:\\users\\cristian chamo\\desktop\\tareaabolesavl\\mediciontiempo\\pruebadetiempos\\pruebadetiempos\\arbolavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79E24BA-818E-45C2-83D8-09E02CE722A9}|PruebaDeTiempos\\PruebaDeTiempos.csproj|solutionrelative:pruebadetiempos\\arbolavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\MedicionTiempo\\PruebaDeTiempos\\PruebaDeTiempos\\Nodo.cs",
+              "RelativeDocumentMoniker": "PruebaDeTiempos\\Nodo.cs",
+              "ToolTip": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\MedicionTiempo\\PruebaDeTiempos\\PruebaDeTiempos\\Nodo.cs",
+              "RelativeToolTip": "PruebaDeTiempos\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:35:47.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "arbolAVL.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\MedicionTiempo\\PruebaDeTiempos\\PruebaDeTiempos\\arbolAVL.cs",
+              "RelativeDocumentMoniker": "PruebaDeTiempos\\arbolAVL.cs",
+              "ToolTip": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\MedicionTiempo\\PruebaDeTiempos\\PruebaDeTiempos\\arbolAVL.cs",
+              "RelativeToolTip": "PruebaDeTiempos\\arbolAVL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:41:46.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arbolBST.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\MedicionTiempo\\PruebaDeTiempos\\PruebaDeTiempos\\arbolBST.cs",
+              "RelativeDocumentMoniker": "PruebaDeTiempos\\arbolBST.cs",
+              "ToolTip": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\MedicionTiempo\\PruebaDeTiempos\\PruebaDeTiempos\\arbolBST.cs",
+              "RelativeToolTip": "PruebaDeTiempos\\arbolBST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:40:25.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\MedicionTiempo\\PruebaDeTiempos\\PruebaDeTiempos\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaDeTiempos\\Program.cs",
+              "ToolTip": "C:\\Users\\Cristian Chamo\\Desktop\\TareaAbolesAVL\\MedicionTiempo\\PruebaDeTiempos\\PruebaDeTiempos\\Program.cs",
+              "RelativeToolTip": "PruebaDeTiempos\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:14:57.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
