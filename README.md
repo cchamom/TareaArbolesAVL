@@ -37,7 +37,7 @@ BST no asegura el balance del árbol. Puede llegar a desbalancearse, especialmen
 
 ------------
 
-El programa sigue contando con la busqueda InOrden, PortOrden y PreOrden, calcular la altura y el grado del arbol y tambien como quedaria de manera grafica.
+El programa sigue contando con la busqueda InOrden, PostOrden y PreOrden, calcular la altura y el grado del arbol y tambien como quedaria de manera grafica.
 
 #### balance_factor
 El factor de equilibrio o balance factor es una medida utilizada en los árboles AVL para determinar si un nodo está balanceado. Este factor indica la diferencia entre la altura del subárbol izquierdo y el subárbol derecho de un nodo. Es crucial para mantener la propiedad de balance del árbol AVL.
@@ -49,9 +49,9 @@ El factor de equilibrio o balance factor es una medida utilizada en los árboles
 -Rotación RL (Derecha-Izquierda)
 
 ### Elminar
-Se implementa un metodo para poder eliminar un nodo y el arbol se autobance
+Se implementa un metodo para poder eliminar un nodo y el arbol se autobalance.
 
-El arvol AVL sigue funcionando correctamente para operaciones básicas: inserción, búsqueda y eliminación. Depues de implmentar los metodos requeridos el porgrama corre perfecramente.
+El arbol AVL sigue funcionando correctamente para operaciones básicas: inserción, búsqueda y eliminación. Depues de implmentar los metodos requeridos el porgrama corre perfecramente.
 
 ## Capturas del la Ejecución
 [![Imagen-de-Whats-App-2025-04-04-a-las-15-18-42-ac8f5798.jpg](https://i.postimg.cc/PxJ0WgM1/Imagen-de-Whats-App-2025-04-04-a-las-15-18-42-ac8f5798.jpg)](https://postimg.cc/ygqfBrtN)
@@ -67,7 +67,7 @@ El arvol AVL sigue funcionando correctamente para operaciones básicas: inserci�
 ------------
 
 # Medición de Tiempos
-Para hacer la segunda serie cree una nueva solucion donde usando Stopwatch cree un objeto del mismo nombre para medir cuato duraba cada algoritmo en buscar un dato metido en Ticks. Tambien suse Random para generar 10,000 elementos usando un ciclo for.
+Para hacer la segunda serie cree una nueva solucion donde usando Stopwatch cree un objeto del mismo nombre para medir cuanto duraba cada algoritmo en buscar un dato medido en Ticks. Tambien use Random para generar 10,000 elementos usando un ciclo for.
 
 Luego usando un foreach insertamos los elementos generados aleatoriamente en un array que alamacenara elemnetos de 1 a 10,000
 
