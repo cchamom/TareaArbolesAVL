@@ -5,7 +5,9 @@ El objetivo de la tarea es implementar el algoritmo de busqueda AVL a la anterio
 
 El término AVL hace referencia al árbol AVL (Adelson-Velsky y Landis), que es un tipo de árbol binario de búsqueda auto-balanceado.
 </p>
+
 ## Características principales de los árboles AVL
+
 ### Balance de altura
 
 En un árbol AVL, la diferencia de alturas entre los subárboles izquierdo y derecho de cualquier nodo (conocida como el factor de balance) no puede ser mayor que 1. Si esta diferencia excede 1 después de insertar o eliminar un nodo, el árbol aplica rotaciones para restaurar el balance.
